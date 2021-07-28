@@ -14,6 +14,8 @@ monkey.patch_all()
 from gevent.queue import Queue
 import pylru
 
+import uniout
+
 
 def query(qname):
     """

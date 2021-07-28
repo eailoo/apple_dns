@@ -1,0 +1,4 @@
+# cpython  // windows 安装gevent需要安装cpython
+gevent==21.1.2
+dnslib==0.9.16
+pylru==1.2.0
